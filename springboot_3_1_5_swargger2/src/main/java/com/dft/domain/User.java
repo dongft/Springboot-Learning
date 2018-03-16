@@ -1,4 +1,4 @@
-package com.dft.demo.domain;
+package com.dft.domain;
 
 import org.springframework.beans.factory.annotation.Value;
 

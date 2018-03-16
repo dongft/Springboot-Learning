@@ -1,4 +1,4 @@
-package com.dft.demo.web;
+package com.dft.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

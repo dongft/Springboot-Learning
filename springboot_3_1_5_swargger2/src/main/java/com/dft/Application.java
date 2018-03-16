@@ -1,4 +1,4 @@
-package com.dft.demo;
+package com.dft;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

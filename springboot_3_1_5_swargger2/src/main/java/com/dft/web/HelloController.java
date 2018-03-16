@@ -1,4 +1,4 @@
-package com.dft.demo.web;
+package com.dft.web;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

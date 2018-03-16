@@ -1,27 +1,31 @@
-package com.dft.demo.web;
+package com.dft.web;
 
+import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest;
+import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.http.MediaType;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
-import org.springframework.test.web.servlet.result.MockMvcResultHandlers;
+import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 @RunWith(SpringRunner.class)
-@WebMvcTest(HelloController.class)
-public class HelloControllerTests {
+@SpringBootTest
+public class HelloControllerTests2 {
 
-    @Autowired
     private MockMvc mvc;
 
+    @Before
+    public void setup() {
+        mvc = MockMvcBuilders.standaloneSetup(new HelloController()).build();
+    }
+
     @Test
-    public void getHello() throws Exception {
+    public void testHelloController() throws Exception {
         mvc.perform(get("/").accept(MediaType.APPLICATION_JSON))
-                .andExpect(status().isOk()).andDo(MockMvcResultHandlers.print());
+                .andExpect(status().isOk());
     }
 }
