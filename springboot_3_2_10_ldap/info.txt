@@ -1,0 +1,23 @@
+学习资料：
+LDAP（轻量目录访问协议，英文全称是Lightweight Directory Access Protocol）基本介绍
+    http://blog.csdn.net/xiaoqiangnan/article/details/69945974
+
+LDAP简称对应
+    o：organization（组织-公司）
+    ou：organization unit（组织单元-部门）
+    c：countryName（国家）
+    dc：domainComponent（域名）
+    sn：surname（姓氏）
+    cn：common name（常用名称）
+
+    dn：区别名DN （Distinguished Name）
+    objectClass：对象类别(objectClass)
+
+
+# https://www.zhihu.com/question/21594237
+directory database 和 relational database的区别。。。
+这是一个很大的话题。还要上班，简单回答一下。
+当你需要储存大量的数据，而且数据不是经常更改，需要很快速的查找的话。用LDAP。
+
+
+
