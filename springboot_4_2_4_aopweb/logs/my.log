@@ -1,0 +1,90 @@
+2018-03-27 17:30:08,545  INFO Application:48 ---- Starting Application on DFT-PC with PID 10908 (D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb\target\classes started by dongfuting in D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb)
+2018-03-27 17:30:08,546 DEBUG Application:51 ---- Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+2018-03-27 17:30:08,547  INFO Application:637 ---- No active profile set, falling back to default profiles: default
+2018-03-27 17:30:10,094  INFO Application:57 ---- Started Application in 1.927 seconds (JVM running for 2.799)
+2018-03-27 17:31:01,467  INFO Application:48 ---- Starting Application on DFT-PC with PID 9068 (D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb\target\classes started by dongfuting in D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb)
+2018-03-27 17:31:01,467 DEBUG Application:51 ---- Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+2018-03-27 17:31:01,467  INFO Application:637 ---- No active profile set, falling back to default profiles: default
+2018-03-27 17:31:02,797  INFO Application:57 ---- Started Application in 1.48 seconds (JVM running for 2.103)
+2018-03-27 17:31:35,305  INFO Application:48 ---- Starting Application on DFT-PC with PID 8264 (D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb\target\classes started by dongfuting in D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb)
+2018-03-27 17:31:35,307 DEBUG Application:51 ---- Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+2018-03-27 17:31:35,307  INFO Application:637 ---- No active profile set, falling back to default profiles: default
+2018-03-27 17:31:36,507  INFO Application:57 ---- Started Application in 1.327 seconds (JVM running for 1.93)
+2018-03-27 17:32:19,624  INFO Application:48 ---- Starting Application on DFT-PC with PID 10596 (D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb\target\classes started by dongfuting in D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb)
+2018-03-27 17:32:19,624 DEBUG Application:51 ---- Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+2018-03-27 17:32:19,634  INFO Application:637 ---- No active profile set, falling back to default profiles: default
+2018-03-27 17:32:20,959  INFO Application:57 ---- Started Application in 1.465 seconds (JVM running for 2.082)
+2018-03-27 17:32:47,820  INFO Application:48 ---- Starting Application on DFT-PC with PID 3700 (D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb\target\classes started by dongfuting in D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb)
+2018-03-27 17:32:47,820 DEBUG Application:51 ---- Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+2018-03-27 17:32:47,820  INFO Application:637 ---- No active profile set, falling back to default profiles: default
+2018-03-27 17:32:49,110  INFO Application:57 ---- Started Application in 1.44 seconds (JVM running for 2.053)
+2018-03-27 18:05:17,748  INFO Application:48 ---- Starting Application on DFT-PC with PID 1536 (D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb\target\classes started by dongfuting in D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb)
+2018-03-27 18:05:17,754 DEBUG Application:51 ---- Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+2018-03-27 18:05:17,755  INFO Application:637 ---- No active profile set, falling back to default profiles: default
+2018-03-27 18:05:19,020  INFO Application:57 ---- Started Application in 1.425 seconds (JVM running for 2.038)
+2018-03-27 18:05:54,266  INFO Application:48 ---- Starting Application on DFT-PC with PID 11648 (D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb\target\classes started by dongfuting in D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb)
+2018-03-27 18:05:54,268 DEBUG Application:51 ---- Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+2018-03-27 18:05:54,269  INFO Application:637 ---- No active profile set, falling back to default profiles: default
+2018-03-27 18:05:55,684  INFO Application:57 ---- Started Application in 1.565 seconds (JVM running for 2.247)
+2018-03-27 21:37:13,579  INFO Application:48 ---- Starting Application on DFT-PC with PID 9676 (D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb\target\classes started by dongfuting in D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb)
+2018-03-27 21:37:13,580 DEBUG Application:51 ---- Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+2018-03-27 21:37:13,581  INFO Application:637 ---- No active profile set, falling back to default profiles: default
+2018-03-27 21:37:57,767  INFO Application:48 ---- Starting Application on DFT-PC with PID 5080 (D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb\target\classes started by dongfuting in D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb)
+2018-03-27 21:37:57,769 DEBUG Application:51 ---- Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+2018-03-27 21:37:57,769  INFO Application:637 ---- No active profile set, falling back to default profiles: default
+2018-03-27 21:37:59,369  INFO Application:57 ---- Started Application in 1.729 seconds (JVM running for 2.309)
+2018-03-27 21:38:06,360  INFO WebLogAspect:44 ---- URL: http://localhost:8080/hello
+2018-03-27 21:38:06,361  INFO WebLogAspect:45 ---- HTTP_METHOD : POST
+2018-03-27 21:38:06,361  INFO WebLogAspect:46 ---- IP : 0:0:0:0:0:0:0:1
+2018-03-27 21:38:06,363  INFO WebLogAspect:47 ---- CLASS_METHOD : com.dft.web.HelloController.hello
+2018-03-27 21:38:06,364  INFO WebLogAspect:49 ---- ARGS : [王尼玛]
+2018-03-27 21:38:06,367  INFO WebLogAspect:56 ---- RESPONSE : Hello 王尼玛
+2018-03-27 21:38:24,810  INFO WebLogAspect:44 ---- URL: http://localhost:8080/hello
+2018-03-27 21:38:24,811  INFO WebLogAspect:45 ---- HTTP_METHOD : GET
+2018-03-27 21:38:24,811  INFO WebLogAspect:46 ---- IP : 0:0:0:0:0:0:0:1
+2018-03-27 21:38:24,813  INFO WebLogAspect:47 ---- CLASS_METHOD : com.dft.web.HelloController.hello
+2018-03-27 21:38:24,813  INFO WebLogAspect:49 ---- ARGS : []
+2018-03-27 21:38:24,814  INFO WebLogAspect:56 ---- RESPONSE : Hello World
+2018-03-27 21:40:18,612  INFO Application:48 ---- Starting Application on DFT-PC with PID 8036 (D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb\target\classes started by dongfuting in D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb)
+2018-03-27 21:40:18,614 DEBUG Application:51 ---- Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+2018-03-27 21:40:18,614  INFO Application:637 ---- No active profile set, falling back to default profiles: default
+2018-03-27 21:40:20,198  INFO Application:57 ---- Started Application in 1.717 seconds (JVM running for 2.285)
+2018-03-27 21:40:27,808  INFO WebLogAspect:44 ---- URL: http://localhost:8080/hello
+2018-03-27 21:40:27,809  INFO WebLogAspect:45 ---- HTTP_METHOD : GET
+2018-03-27 21:40:27,809  INFO WebLogAspect:46 ---- IP : 0:0:0:0:0:0:0:1
+2018-03-27 21:40:27,811  INFO WebLogAspect:47 ---- CLASS_METHOD : com.dft.web.HelloController.hello
+2018-03-27 21:40:27,811  INFO WebLogAspect:49 ---- ARGS : []
+2018-03-27 21:40:27,814  INFO WebLogAspect:56 ---- RESPONSE : Hello World
+2018-03-27 21:40:27,815  INFO WebLogAspect:57 ---- SPEND TIME: 7
+2018-03-27 21:40:45,463  INFO Application:48 ---- Starting Application on DFT-PC with PID 12540 (D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb\target\classes started by dongfuting in D:\idea_workspace\Springboot-Learning\springboot_4_2_4_aopweb)
+2018-03-27 21:40:45,464 DEBUG Application:51 ---- Running with Spring Boot v1.5.2.RELEASE, Spring v4.3.7.RELEASE
+2018-03-27 21:40:45,465  INFO Application:637 ---- No active profile set, falling back to default profiles: default
+2018-03-27 21:40:46,965  INFO Application:57 ---- Started Application in 1.63 seconds (JVM running for 2.245)
+2018-03-27 21:40:49,956  INFO WebLogAspect:44 ---- URL: http://localhost:8080/hello
+2018-03-27 21:40:49,956  INFO WebLogAspect:45 ---- HTTP_METHOD : GET
+2018-03-27 21:40:49,956  INFO WebLogAspect:46 ---- IP : 0:0:0:0:0:0:0:1
+2018-03-27 21:40:49,956  INFO WebLogAspect:47 ---- CLASS_METHOD : com.dft.web.HelloController.hello
+2018-03-27 21:40:49,956  INFO WebLogAspect:49 ---- ARGS : []
+2018-03-27 21:40:49,956  INFO WebLogAspect:56 ---- RESPONSE : Hello World
+2018-03-27 21:40:49,956  INFO WebLogAspect:57 ---- SPEND TIME: 0 ms
+2018-03-27 21:40:57,448  INFO WebLogAspect:44 ---- URL: http://localhost:8080/hello
+2018-03-27 21:40:57,448  INFO WebLogAspect:45 ---- HTTP_METHOD : POST
+2018-03-27 21:40:57,449  INFO WebLogAspect:46 ---- IP : 0:0:0:0:0:0:0:1
+2018-03-27 21:40:57,449  INFO WebLogAspect:47 ---- CLASS_METHOD : com.dft.web.HelloController.hello
+2018-03-27 21:40:57,450  INFO WebLogAspect:49 ---- ARGS : [王尼玛]
+2018-03-27 21:40:57,450  INFO WebLogAspect:56 ---- RESPONSE : Hello 王尼玛
+2018-03-27 21:40:57,450  INFO WebLogAspect:57 ---- SPEND TIME: 2 ms
+2018-03-27 21:41:02,025  INFO WebLogAspect:44 ---- URL: http://localhost:8080/hello
+2018-03-27 21:41:02,026  INFO WebLogAspect:45 ---- HTTP_METHOD : POST
+2018-03-27 21:41:02,026  INFO WebLogAspect:46 ---- IP : 0:0:0:0:0:0:0:1
+2018-03-27 21:41:02,026  INFO WebLogAspect:47 ---- CLASS_METHOD : com.dft.web.HelloController.hello
+2018-03-27 21:41:02,027  INFO WebLogAspect:49 ---- ARGS : [王尼玛]
+2018-03-27 21:41:02,027  INFO WebLogAspect:56 ---- RESPONSE : Hello 王尼玛
+2018-03-27 21:41:02,027  INFO WebLogAspect:57 ---- SPEND TIME: 2 ms
+2018-03-27 21:41:08,086  INFO WebLogAspect:44 ---- URL: http://localhost:8080/hello
+2018-03-27 21:41:08,087  INFO WebLogAspect:45 ---- HTTP_METHOD : GET
+2018-03-27 21:41:08,087  INFO WebLogAspect:46 ---- IP : 0:0:0:0:0:0:0:1
+2018-03-27 21:41:08,088  INFO WebLogAspect:47 ---- CLASS_METHOD : com.dft.web.HelloController.hello
+2018-03-27 21:41:08,089  INFO WebLogAspect:49 ---- ARGS : []
+2018-03-27 21:41:08,089  INFO WebLogAspect:56 ---- RESPONSE : Hello World
+2018-03-27 21:41:08,089  INFO WebLogAspect:57 ---- SPEND TIME: 3 ms
