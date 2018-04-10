@@ -34,7 +34,7 @@ public class Task2 {
     Thread.sleep(random.nextInt(10000));
     long end = System.currentTimeMillis();
     System.out.println("完成任务2，耗时：" + (end - start) + " 毫秒");
-    return new AsyncResult<>("任务1完成");
+    return new AsyncResult<>("任务2完成");
   }
 
   @Async
@@ -44,6 +44,6 @@ public class Task2 {
     Thread.sleep(random.nextInt(10000));
     long end = System.currentTimeMillis();
     System.out.println("完成任务3，耗时：" + (end - start) + " 毫秒");
-    return new AsyncResult<>("任务1完成");
+    return new AsyncResult<>("任务3完成");
   }
 }

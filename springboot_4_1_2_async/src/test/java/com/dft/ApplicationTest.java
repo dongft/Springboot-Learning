@@ -44,6 +44,9 @@ public class ApplicationTest {
     while (true) {
       if (t1.isDone() && t2.isDone() && t3.isDone()) {
         // 三个任务都完成了
+        System.out.println(t1.get());
+        System.out.println(t2.get());
+        System.out.println(t3.get());
         break;
       }
       Thread.sleep(1000);
