@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/springboot_6_6_1_stateMachine.iml" filepath="$PROJECT_DIR$/springboot_6_6_1_stateMachine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_6_1_1_stateMachine.iml" filepath="$PROJECT_DIR$/springboot_6_1_1_stateMachine.iml" />
     </modules>
   </component>
 </project>

@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="springboot_6_1_1_stateMachine" />
         <module name="springboot_6_6_1_stateMachine" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="springboot_6_1_1_stateMachine" target="1.8" />
       <module name="springboot_6_6_1_stateMachine" target="1.8" />
     </bytecodeTargetLevel>
   </component>

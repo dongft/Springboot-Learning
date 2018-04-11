@@ -1,0 +1,5 @@
+com\dft\Application.class
+com\dft\Events.class
+com\dft\StateMachineConfig.class
+com\dft\States.class
+com\dft\EventConfig.class
